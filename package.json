@@ -1,0 +1,26 @@
+{
+  "name": "pizza-slack",
+  "version": "0.1.0",
+  "description": "Order Dominos from Slack.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CursorLabs",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "change-case": "^2.3.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "morgan": "^1.7.0",
+    "nconf": "^0.8.4",
+    "q": "^1.4.1",
+    "require-dir": "^0.3.0"
+  }
+}
